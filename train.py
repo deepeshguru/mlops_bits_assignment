@@ -13,7 +13,9 @@ X = data[['Pclass', 'Age', 'SibSp', 'Fare']]
 y = data['Survived']
 
 # Split data
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+X_train, X_test, y_train, y_test = train_test_split(X, y, 
+                                                    test_size=0.2, 
+                                                    random_state=42)
 
 # Train model
 model = RandomForestClassifier()
@@ -23,7 +25,7 @@ model.fit(X_train, y_train)
 predictions = model.predict(X_test)
 accuracy = accuracy_score(y_test, predictions)
 
-print(f"Model Accuracy: {accuracy:.2f}")  # This is already within the limit
+print(f"Model Accuracy: {accuracy:.2f}")
 
 # Save model
 joblib.dump(model, 'model.pkl')
