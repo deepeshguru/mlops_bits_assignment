@@ -35,7 +35,7 @@ models = {
 for model_name, model in models.items():
     with mlflow.start_run():
         # Log model parameters
-        mlflow.log_param("model", model_name)
+        mlflow.log_param("model_name", model_name)
 
         # Record training time
         start_time = time.time()
