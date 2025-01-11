@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/BITS%20docs/MLOps/Assignment_1/mlops_bits_assignment/mlops_bits_assignment/mlruns/829541074842822751/49961e3d8c804116a8a056394e25c0ba/artifacts
+end_time: 1736590824825
+entry_point_name: ''
+experiment_id: '829541074842822751'
+lifecycle_stage: active
+run_id: 49961e3d8c804116a8a056394e25c0ba
+run_name: zealous-tern-121
+run_uuid: 49961e3d8c804116a8a056394e25c0ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736590819671
+status: 3
+tags: []
+user_id: AgrawalD

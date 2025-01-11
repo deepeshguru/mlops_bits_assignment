@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/BITS%20docs/MLOps/Assignment_1/mlops_bits_assignment/mlops_bits_assignment/mlruns/829541074842822751/08fe76434cbc428d8aae7939e7a72b7e/artifacts
+end_time: 1736590819664
+entry_point_name: ''
+experiment_id: '829541074842822751'
+lifecycle_stage: active
+run_id: 08fe76434cbc428d8aae7939e7a72b7e
+run_name: unleashed-cat-598
+run_uuid: 08fe76434cbc428d8aae7939e7a72b7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736590814567
+status: 3
+tags: []
+user_id: AgrawalD

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/BITS%20docs/MLOps/Assignment_1/mlops_bits_assignment/mlops_bits_assignment/mlruns/829541074842822751/12c6d122f0d64557ada21e79cb2c659c/artifacts
+end_time: 1736590483505
+entry_point_name: ''
+experiment_id: '829541074842822751'
+lifecycle_stage: active
+run_id: 12c6d122f0d64557ada21e79cb2c659c
+run_name: casual-chimp-803
+run_uuid: 12c6d122f0d64557ada21e79cb2c659c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736590383024
+status: 3
+tags: []
+user_id: AgrawalD

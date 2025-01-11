@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/BITS%20docs/MLOps/Assignment_1/mlops_bits_assignment/mlops_bits_assignment/mlruns/829541074842822751/b3910694bb394d309fe8bcce884e176f/artifacts
+end_time: 1736590919280
+entry_point_name: ''
+experiment_id: '829541074842822751'
+lifecycle_stage: active
+run_id: b3910694bb394d309fe8bcce884e176f
+run_name: marvelous-flea-852
+run_uuid: b3910694bb394d309fe8bcce884e176f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736590914152
+status: 3
+tags: []
+user_id: AgrawalD

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/BITS%20docs/MLOps/Assignment_1/mlops_bits_assignment/mlops_bits_assignment/mlruns/829541074842822751/27980673aaf64618b31d6705f1482e64/artifacts
+end_time: 1736590914143
+entry_point_name: ''
+experiment_id: '829541074842822751'
+lifecycle_stage: active
+run_id: 27980673aaf64618b31d6705f1482e64
+run_name: unruly-stag-22
+run_uuid: 27980673aaf64618b31d6705f1482e64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736590909411
+status: 3
+tags: []
+user_id: AgrawalD

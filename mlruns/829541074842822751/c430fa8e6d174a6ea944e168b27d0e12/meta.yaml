@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/BITS%20docs/MLOps/Assignment_1/mlops_bits_assignment/mlops_bits_assignment/mlruns/829541074842822751/c430fa8e6d174a6ea944e168b27d0e12/artifacts
+end_time: 1736590576780
+entry_point_name: ''
+experiment_id: '829541074842822751'
+lifecycle_stage: active
+run_id: c430fa8e6d174a6ea944e168b27d0e12
+run_name: suave-pug-591
+run_uuid: c430fa8e6d174a6ea944e168b27d0e12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736590568969
+status: 3
+tags: []
+user_id: AgrawalD

@@ -1,0 +1,30 @@
+artifact_path: Decision Tree_model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.2
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.4.1.post1
+mlflow_version: 2.19.0
+model_size_bytes: 8992
+model_uuid: ecdabb369b574f7c850a020f928be3dc
+run_id: 3c5c95fba47e4d99ab0a7e8e8f2e206a
+saved_input_example_info:
+  artifact_path: input_example.json
+  serving_input_path: serving_input_example.json
+  type: json_object
+signature:
+  inputs: '[{"type": "double", "name": "Pclass", "required": true}, {"type": "double",
+    "name": "Age", "required": true}, {"type": "double", "name": "SibSp", "required":
+    true}, {"type": "double", "name": "Fare", "required": true}]'
+  outputs: '[{"type": "long", "required": true}]'
+  params: null
+utc_time_created: '2025-01-11 10:14:43.560079'

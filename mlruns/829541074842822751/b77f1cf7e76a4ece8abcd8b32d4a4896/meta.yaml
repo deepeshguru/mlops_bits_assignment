@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/BITS%20docs/MLOps/Assignment_1/mlops_bits_assignment/mlops_bits_assignment/mlruns/829541074842822751/b77f1cf7e76a4ece8abcd8b32d4a4896/artifacts
+end_time: 1736590486974
+entry_point_name: ''
+experiment_id: '829541074842822751'
+lifecycle_stage: active
+run_id: b77f1cf7e76a4ece8abcd8b32d4a4896
+run_name: melodic-crow-189
+run_uuid: b77f1cf7e76a4ece8abcd8b32d4a4896
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736590486564
+status: 4
+tags: []
+user_id: AgrawalD

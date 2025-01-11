@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/BITS%20docs/MLOps/Assignment_1/mlops_bits_assignment/mlops_bits_assignment/mlruns/829541074842822751/4aaeb62b4d9d4f329bc0314172497085/artifacts
+end_time: 1736590583199
+entry_point_name: ''
+experiment_id: '829541074842822751'
+lifecycle_stage: active
+run_id: 4aaeb62b4d9d4f329bc0314172497085
+run_name: efficient-skink-269
+run_uuid: 4aaeb62b4d9d4f329bc0314172497085
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736590576788
+status: 3
+tags: []
+user_id: AgrawalD

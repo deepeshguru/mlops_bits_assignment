@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/BITS%20docs/MLOps/Assignment_1/mlops_bits_assignment/mlops_bits_assignment/mlruns/829541074842822751/3c5c95fba47e4d99ab0a7e8e8f2e206a/artifacts
+end_time: 1736590486560
+entry_point_name: ''
+experiment_id: '829541074842822751'
+lifecycle_stage: active
+run_id: 3c5c95fba47e4d99ab0a7e8e8f2e206a
+run_name: upbeat-snake-818
+run_uuid: 3c5c95fba47e4d99ab0a7e8e8f2e206a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736590483508
+status: 3
+tags: []
+user_id: AgrawalD

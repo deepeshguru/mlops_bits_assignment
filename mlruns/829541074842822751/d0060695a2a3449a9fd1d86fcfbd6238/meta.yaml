@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/BITS%20docs/MLOps/Assignment_1/mlops_bits_assignment/mlops_bits_assignment/mlruns/829541074842822751/d0060695a2a3449a9fd1d86fcfbd6238/artifacts
+end_time: 1736590909405
+entry_point_name: ''
+experiment_id: '829541074842822751'
+lifecycle_stage: active
+run_id: d0060695a2a3449a9fd1d86fcfbd6238
+run_name: gaudy-mouse-210
+run_uuid: d0060695a2a3449a9fd1d86fcfbd6238
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736590902263
+status: 3
+tags: []
+user_id: AgrawalD
